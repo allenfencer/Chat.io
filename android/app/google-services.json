@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "326805345562",
+    "project_id": "chatio-5703d",
+    "storage_bucket": "chatio-5703d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326805345562:android:9f9408fd53dbdfc524c8a3",
+        "android_client_info": {
+          "package_name": "com.example.chat_io"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326805345562-9bd9i4c28mf646t1ev5rkgh97rs6bfh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5XqrY88KXoUtEpk-a-8Qw-rjLm3mHWF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326805345562-9bd9i4c28mf646t1ev5rkgh97rs6bfh0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
